@@ -1,6 +1,6 @@
 package io.github.nathanjrussell;
 
-public class Cool {
+public class    Cool {
 
     public int value1 = 42;
     private int value2 = 7;
